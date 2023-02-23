@@ -1,7 +1,5 @@
-<film>:<Soul>
-<serial>:<home on happy>
-<eat>:<borsch>
-<season>:summer
-<cauntry>:<USA[D[D[[[D[D[D[D[D[D[[C[C[C[C[C[C[C[C[C[C[[D[D[D[D[D[D[D[D[[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C<summer>
-<cauntry[A:[B[D>:<USA>
-
+film:Soul
+serial:home on happy
+eat:borsch
+season:summer
+cauntry:USA
